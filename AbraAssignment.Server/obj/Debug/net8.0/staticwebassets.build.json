@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "NhE0fmN3A6GwNyaaDIoI7DCmMhVOWNL3BIIhYimmtdM=",
+  "Source": "AbraAssignment.Server",
+  "BasePath": "_content/AbraAssignment.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

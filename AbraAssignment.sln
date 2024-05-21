@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AbraAssignment.Server", "AbraAssignment.Server\AbraAssignment.Server.csproj", "{8BE612D1-DCE6-48DD-80AF-08A349A5BDBC}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "client", "client\client.esproj", "{7EAC8FF8-E56B-492B-8E6B-AD09DD210ADF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BE612D1-DCE6-48DD-80AF-08A349A5BDBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BE612D1-DCE6-48DD-80AF-08A349A5BDBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BE612D1-DCE6-48DD-80AF-08A349A5BDBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BE612D1-DCE6-48DD-80AF-08A349A5BDBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EAC8FF8-E56B-492B-8E6B-AD09DD210ADF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EAC8FF8-E56B-492B-8E6B-AD09DD210ADF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EAC8FF8-E56B-492B-8E6B-AD09DD210ADF}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{7EAC8FF8-E56B-492B-8E6B-AD09DD210ADF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EAC8FF8-E56B-492B-8E6B-AD09DD210ADF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EAC8FF8-E56B-492B-8E6B-AD09DD210ADF}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0764E04B-2083-4D3A-82DF-612E22FF744A}
+	EndGlobalSection
+EndGlobal

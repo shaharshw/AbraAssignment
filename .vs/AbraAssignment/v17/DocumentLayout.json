@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shaharshwartz\\source\\repos\\AbraAssignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7EAC8FF8-E56B-492B-8E6B-AD09DD210ADF}|client\\client.esproj|c:\\users\\shaharshwartz\\source\\repos\\abraassignment\\client\\src\\components\\petapp.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{7EAC8FF8-E56B-492B-8E6B-AD09DD210ADF}|client\\client.esproj|solutionrelative:client\\src\\components\\petapp.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EAC8FF8-E56B-492B-8E6B-AD09DD210ADF}|client\\client.esproj|c:\\users\\shaharshwartz\\source\\repos\\abraassignment\\client\\src\\components\\home.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{7EAC8FF8-E56B-492B-8E6B-AD09DD210ADF}|client\\client.esproj|solutionrelative:client\\src\\components\\home.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BE612D1-DCE6-48DD-80AF-08A349A5BDBC}|AbraAssignment.Server\\AbraAssignment.Server.csproj|c:\\users\\shaharshwartz\\source\\repos\\abraassignment\\abraassignment.server\\models\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BE612D1-DCE6-48DD-80AF-08A349A5BDBC}|AbraAssignment.Server\\AbraAssignment.Server.csproj|solutionrelative:abraassignment.server\\models\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BE612D1-DCE6-48DD-80AF-08A349A5BDBC}|AbraAssignment.Server\\AbraAssignment.Server.csproj|c:\\users\\shaharshwartz\\source\\repos\\abraassignment\\abraassignment.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BE612D1-DCE6-48DD-80AF-08A349A5BDBC}|AbraAssignment.Server\\AbraAssignment.Server.csproj|solutionrelative:abraassignment.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PetApp.jsx",
+              "DocumentMoniker": "C:\\Users\\shaharshwartz\\source\\repos\\AbraAssignment\\client\\src\\Components\\PetApp.jsx",
+              "RelativeDocumentMoniker": "client\\src\\Components\\PetApp.jsx",
+              "ToolTip": "C:\\Users\\shaharshwartz\\source\\repos\\AbraAssignment\\client\\src\\Components\\PetApp.jsx",
+              "RelativeToolTip": "client\\src\\Components\\PetApp.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-05-21T13:15:48.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pet.cs",
+              "DocumentMoniker": "C:\\Users\\shaharshwartz\\source\\repos\\AbraAssignment\\AbraAssignment.Server\\Models\\Pet.cs",
+              "RelativeDocumentMoniker": "AbraAssignment.Server\\Models\\Pet.cs",
+              "ToolTip": "C:\\Users\\shaharshwartz\\source\\repos\\AbraAssignment\\AbraAssignment.Server\\Models\\Pet.cs",
+              "RelativeToolTip": "AbraAssignment.Server\\Models\\Pet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T13:10:53.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Home.jsx",
+              "DocumentMoniker": "C:\\Users\\shaharshwartz\\source\\repos\\AbraAssignment\\client\\src\\Components\\Home.jsx",
+              "RelativeDocumentMoniker": "client\\src\\Components\\Home.jsx",
+              "ToolTip": "C:\\Users\\shaharshwartz\\source\\repos\\AbraAssignment\\client\\src\\Components\\Home.jsx",
+              "RelativeToolTip": "client\\src\\Components\\Home.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-05-21T13:08:39.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shaharshwartz\\source\\repos\\AbraAssignment\\AbraAssignment.Server\\Program.cs",
+              "RelativeDocumentMoniker": "AbraAssignment.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\shaharshwartz\\source\\repos\\AbraAssignment\\AbraAssignment.Server\\Program.cs",
+              "RelativeToolTip": "AbraAssignment.Server\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAEB3PS0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T13:07:10.703Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
